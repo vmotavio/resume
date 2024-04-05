@@ -1,7 +1,3 @@
-Otavio Vargas Resume              
-
-![profile picture](/assets/images/profile.jpg)
-
 Otavio Vargas
 =============
 

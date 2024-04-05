@@ -1,6 +1,6 @@
 Otavio Vargas Resume              
 
-![profile picture](/resume/assets/images/profile.jpg)
+![profile picture](/assets/images/profile.jpg)
 
 Otavio Vargas
 =============
@@ -89,8 +89,6 @@ I worked with billing systems for health plan clients, preparing requests in the
 *   Skills: PL/SQL · SQL · Database systems · Computer maintenance
 
 This resume is a fork from https://github.com/sharu725/online-cv repository;
-
-(function (i, s, o, g, r, a, m) { i\['GoogleAnalyticsObject'\] = r; i\[r\] = i\[r\] || function () { (i\[r\].q = i\[r\].q || \[\]).push(arguments) }, i\[r\].l = 1 \* new Date(); a = s.createElement(o), m = s.getElementsByTagName(o)\[0\]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m) })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga'); ga('create', 'G-5XX9CZWFY2', 'auto'); ga('send', 'pageview');
 
 ## Credits
 This resume is a fork from https://github.com/sharu725/online-cv repository;

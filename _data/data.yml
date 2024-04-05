@@ -9,7 +9,7 @@ sidebar:
 
     # Profile information
     name: Otavio Vargas
-    tagline: Software Engineer
+    tagline: Software Engineer (Back-end)
     avatar: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -41,56 +41,35 @@ sidebar:
           link:
 
 career-profile:
-    title: Career Profile
+    title: Resume
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      Passionate about turning ideas into reality through code.
+      With more than 12 years of experience in the IT area, I acquired several soft and hard skills during the various projects in which I participated.
+      Currently, I'm focused on the Back end and tools involving the cloud and DevOps.
+      I have experience with a variety of technologies including JavaScript, TypeScript, Node.js, Java, Spring Boot, AWS, Docker, database, etc. I participated in several projects following agile methodologies, implemented tests and monitored applications.
+      Graduated in Information Systems from UFF, I completed a postgraduate degree in Object Oriented Development in Java.
+      Let's connect! I am always open to new challenges and collaborations that allow me to expand my skill set and contribute to projects. Don't hesitate to get in touch.
 education:
     title: Education
     info:
-      - degree: MSc in Computer Science
-        university: University of London
-        time: 2011 - 2012
-        details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - degree: BSc in Applied Mathematics
-        university: Bristol University
+      - degree: Postgraduate in Object Oriented Development in Java, Information TechnologyPostgraduate in Object Oriented Development in Java, 
+        university: VINCIT University
         time: 2007 - 2011
-        details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+      - degree: Bachelor in Information Systems
+        university: Fluminense Federal University
+        time: 2013 - 2018
+      - degree: Computer Technician
+        university: Federal Institute of Education, Science and Technology of Southeastern Minas Gerais
+        time: 2009 - 2012
 
 experiences:
     title: Experiences
     info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
+      - role: Back-end Developer
+        time: 2021 - Present
+        company: Verzel Systems Solutions, Remote
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
+          I developed and maintained back end applications with Spring Boot (Java) and Node.js (TypeScript/JavaScript) and used DevOps and Clouds tools (AWS and Azure).
             - Bullet point
             - Bullet point
       - role: Senior Software Engineer

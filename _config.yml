@@ -1,36 +1,23 @@
-#Update all the sections by editing the data.yml file inside _data folder.
-
-# Site Settings
 title: Otavio Vargas Resume
 url: 'https://vmotavio.github.io/resume/'
 
-#change it according to your repository name
-# disabling since we are using a custom domain
-#baseurl: '/online-cv' 
-
 description: A resume about Otavio Vargas (Software Engineer)
-# Style will be applied only after restarting the build or serve. Just choose one of the options.
-theme_skin: blue # blue turquoise green berry orange ceramic
+theme_skin: blue
 chrome_mobile_color: #use hex colors (ex:#1976d2) or leave empty if you don't want a color for chrome mobile searchbar
 
-# Tracker
 analytics: G-5XX9CZWFY2
 
-# Sass/SCSS
 sass:
   sass_dir: _sass
-  style: compressed # http://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
-
-# Build settings
+  style: compressed
 compress-site: yes
 
 encoding: "utf-8"
-compress_html: # - http://jch.penibelst.de/
+compress_html:
   clippings: all
   ignore:
     envs: development
 
-# Development Settings
 port: 4000
 host: 0.0.0.0
 safe: false

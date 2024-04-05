@@ -1,13 +1,18 @@
 Otavio Vargas
 =============
 
+Resume
+------
+
+Passionate about turning ideas into reality through code. With more than 12 years of experience in the IT area, I acquired several soft and hard skills during the various projects in which I participated. Currently, I’m focused on the Back end and tools involving the cloud and DevOps. I have experience with a variety of technologies including JavaScript, TypeScript, Node.js, Java, Spring Boot, AWS, Docker, database, etc. I participated in several projects following agile methodologies, implemented tests and monitored applications. Graduated in Information Systems from UFF, I completed a postgraduate degree in Object Oriented Development in Java. Let’s connect! I am always open to new challenges and collaborations that allow me to expand my skill set and contribute to projects. Don’t hesitate to get in touch.
+
 ### Software Engineer (Back-end)
 
-*   [vmotavio@gmail.com](mailto:vmotavio@gmail.com)
-*   America/Sao Paulo Timezone
-*   [otaviovargas](https://linkedin.com/in/otaviovargas)
-*   [vmotavio](http://github.com/vmotavio)
-*   [11667417/otávio-vargas](https://stackoverflow.com/users/11667417/otávio-vargas)
+*   Email: [vmotavio@gmail.com](mailto:vmotavio@gmail.com)
+*   Timezone: America/Sao Paulo
+*   Linkedin: [otaviovargas](https://linkedin.com/in/otaviovargas)
+*   GitHu: [vmotavio](http://github.com/vmotavio)
+*   StacK Overflow: [11667417/otávio-vargas](https://stackoverflow.com/users/11667417/otávio-vargas)
 
 Education
 ---------
@@ -30,16 +35,6 @@ Education
 
 2009 - 2012
 
-Languages
----------
-
-*   Portuguese (Native)
-*   English (Professional)
-
-Resume
-------
-
-Passionate about turning ideas into reality through code. With more than 12 years of experience in the IT area, I acquired several soft and hard skills during the various projects in which I participated. Currently, I’m focused on the Back end and tools involving the cloud and DevOps. I have experience with a variety of technologies including JavaScript, TypeScript, Node.js, Java, Spring Boot, AWS, Docker, database, etc. I participated in several projects following agile methodologies, implemented tests and monitored applications. Graduated in Information Systems from UFF, I completed a postgraduate degree in Object Oriented Development in Java. Let’s connect! I am always open to new challenges and collaborations that allow me to expand my skill set and contribute to projects. Don’t hesitate to get in touch.
 
 Experiences
 -----------
@@ -84,7 +79,8 @@ I worked with billing systems for health plan clients, preparing requests in the
 
 *   Skills: PL/SQL · SQL · Database systems · Computer maintenance
 
-This resume is a fork from https://github.com/sharu725/online-cv repository;
+Languages
+---------
 
-## Credits
-This resume is a fork from https://github.com/sharu725/online-cv repository;
+*   Portuguese (Native)
+*   English (Professional)

@@ -60,17 +60,17 @@ experiences:
           I developed and maintained back end applications with Spring Boot (Java) and Node.js (TypeScript/JavaScript) and used DevOps and Clouds tools (AWS and Azure).
       - role: SysAdmin
         time: 2014 - 2015
-        company: Brazil's Navy, Florianópolis/SC
+        company: Brazil's Navy, Florianópolis - SC
         details: |
           I performed SysAdmin functions such as: Network and Server Maintenance; User management and accesses; Backup; Computer maintenance; and Basic Instruction in Computer Science (12 months) and so on.
       - role: Systems Division Assistant
         time: 2012 - 2014
-        company: Brazil's Navy, Niterói/RJ
+        company: Brazil's Navy, Niterói - RJ
         details: |
           I performed several functions focused on Data Center, such as creating and maintaining servers on Premises, virtualization, backup and creation of domain, DNS, monitoring servers, etc.
       - role: Support Analyst I
         time: 2012 - 2012
-        company: Santa Casa, Juiz de Fora/MG
+        company: Santa Casa, Juiz de Fora - MG
         details: |
           I worked with billing systems for health plan clients, preparing requests in the Oracle Database using PL/SQL, and also supporting the unit's users.
 footer: >

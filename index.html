@@ -6,10 +6,6 @@ layout: default
   <option value="pt">Português</option>
 </select>
 
-<div id="career-profile">
-  {% include career-profile.html language=page.lang %}
-</div>
-
 <script>
 document.getElementById('language-selector').addEventListener('change', function() {
   var language = this.value;

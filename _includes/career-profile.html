@@ -1,6 +1,6 @@
-{% if page.lang == 'en' %}
+{% if site_language == 'en' %}
     {% assign career_profile_data = site.data.data.career-profile %}
-{% elsif page.lang == 'pt' %}
+{% else %}
     {% assign career_profile_data = site.data.data-pt.career-profile %}
 {% endif %}
 {% if career-profile %}

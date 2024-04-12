@@ -1,0 +1,75 @@
+sidebar:
+    position: right
+    about: True
+    education: True
+    
+    name: Otávio Vargas
+    tagline: Engenheiro de Software (Back-end)
+    
+    avatar: profile.jpg
+    email: vmotavio@gmail.com
+    timezone: America/Sao Paulo Timezone
+    linkedin: otaviovargas
+    github: vmotavio
+    stack-overflow: 11667417/otávio-vargas
+
+    languages:
+      title: Languages
+      info:
+        - idiom: Português
+          level: Native
+
+        - idiom: Inglês
+          level: Avançado (B2)
+
+career-profile:
+    title: Sobre mim
+    summary: |
+      Apaixonado por transformar ideias em realidade através do código. 
+      Com mais de 12 anos de experiência na área de TI, adquiri diversos soft skills e hard skills durante os diversos projetos em que participei.
+      Atualmente, estou focado no Back end e nas ferramentas que envolvem a nuvem e DevOps.
+      Tenho experiência com uma variedade de tecnologias, incluindo JavaScript, TypeScript, Node.js, Java, Spring Boot, AWS, Docker, banco de dados, etc. Participei de vários projetos seguindo as metodologias ágeis, implementei testes e monitoramento das aplicações. 
+      Graduado em Sistemas de Informação pela UFF, fiz Pós-graduação em Desenvolvimento Orientado a Objetos em Java.
+      Vamos conectar! Estou sempre aberto a novos desafios e colaborações que me permitam expandir meu conjunto de habilidades e contribuir para projetos. Não hesite em entrar em contato.
+education:
+    title: Formação acadêmica
+    info:
+      - degree: Pós-graduação em Desenvolvimento Orientado a Objetos em Java
+        university: VINCIT
+        time: 2007 - 2011
+      - degree: Bacharelado em Sistemas de Informação
+        university: Universidade Federal Fluminense
+        time: 2013 - 2018
+      - degree: Técnico em Informática
+        university: Instituto Federal de Educação, Ciência e Tecnologia do Sudeste de Minas
+        time: 2009 - 2012
+
+experiences:
+    title: Experiências
+    info:
+      - role: Desenvolvedor Back-end
+        time: 2021 - Present
+        company: Verzel Soluções em Sistemas, Remoto
+        details: |
+          Desenvolvi e mantive aplicações back end com Spring Boot (Java) e Node.js (TypeScript/JavaScript) e utilizei ferramentas de DevOps e Clouds (AWS e Azure).
+          - Competências: Java · Spring Boot · Node.js · TypeScript · JavaScript · Gradle · JUnit · Mockito · Swagger API · API REST · PostgreSQL · Banco de dados Oracle · Kafka · AWS · MySQL · Kubernetes · Nest.js · Express.js · Azure · SQL  · Shell script
+      - role: SysAdmin
+        time: 2014 - 2015
+        company: Marinha do Brasil, Florianópolis - SC
+        details: |
+          Desempenhei funções SysAdmin como: Manutenção de Redes e Servidores; Gerenciamento de usuários e acessos; Backup; Manutenção de computadores; e Instrução Básica de Informática (12 meses) e etc.
+          - Competências: Drupal · Servidores On Premises  · Backup · VMware ESX · VMware vSphere · Samba 4 · XenServer · Lotus Notes · Zabbix · Oracle Linux · Ubuntu · Shell script
+      - role: Assistente da Divisão de Sistemas
+        time: 2012 - 2014
+        company: Marinha do Brasil, Niterói - RJ
+        details: |
+          Desempenhei diversas funções voltadas para Data Center, como a criação e manutenção de servidores on Premises , virtualização, backup e criação de servidores de domínio, DNS, de monitoramento, e etc.
+          - Competências: VMware ESX · FreeNAS · DNS Server · Samba 4 · Drupal · CMS · Bacula · Zabbix · PostgreSQL · MySQL · Shell Script · Suse Linux · Ubuntu
+      - role: Support Analyst I
+        time: 2012 - 2012
+        company: Santa Casa, Juiz de Fora - MG
+        details: |
+          Trabalhei com sistemas de faturamento de clientes do plano de saúde, elaborando requisições no Banco de Dados Oracle utilizando PL/SQL, e também, suporte aos usuários da unidade.
+          - Competências: PL/SQL · SQL · Banco de dados · Manutenção de computadores
+footer: >
+  This resume é um fork do https://github.com/sharu725/online-cv;

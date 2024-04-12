@@ -12,6 +12,8 @@ sass:
   style: compressed
 compress-site: yes
 
+site_language: "en"
+
 encoding: "utf-8"
 compress_html:
   clippings: all

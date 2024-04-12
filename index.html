@@ -1,7 +1,23 @@
 ---
 layout: default
 ---
+<select id="language-selector">
+  <option value="en">English</option>
+  <option value="pt">Português</option>
+</select>
 
+<div id="career-profile">
+  {% include career-profile.html language=page.lang %}
+</div>
+
+<script>
+document.getElementById('language-selector').addEventListener('change', function() {
+  var language = this.value;
+  fetchData(language);
+});
+
+// Aqui você pode adicionar a função fetchData e o resto do script para carregar os dados conforme a seleção do idioma
+</script>
 
 {% include career-profile.html %}
 

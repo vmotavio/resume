@@ -1,18 +1,47 @@
 ---
 layout: default
 ---
-<select id="language-selector">
-  <option value="en">English</option>
-  <option value="pt">Português</option>
-</select>
+<link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+</head>
+<body>
+  
+<a href="#" id="en-link" title="English">
+    <img src="/assets/flags/en_flag.png" alt="English Flag">
+    English
+</a>
+
+<a href="#" id="pt-link" title="Português">
+    <img src="/assets/flags/pt_flag.png" alt="Portuguese Flag">
+    Português
+</a>
 
 <script>
-document.getElementById('language-selector').addEventListener('change', function() {
-  var language = this.value;
-  fetchData(language);
+
+function loadContent(language) {
+    if (language === 'en') {
+        loadEnglishContent();
+    } else if (language === 'pt') {
+        loadPortugueseContent();
+    }
+}
+
+document.getElementById('en-link').addEventListener('click', function(event) {
+    event.preventDefault(); 
+    loadContent('en');
+    window.location.reload();
 });
 
-// Aqui você pode adicionar a função fetchData e o resto do script para carregar os dados conforme a seleção do idioma
+document.getElementById('pt-link').addEventListener('click', function(event) {
+    event.preventDefault(); 
+    loadContent('pt');
+    window.location.reload();
+});
+
+if (window.site_language === 'pt') {
+    loadContent('pt');
+} else {
+    loadContent('en');
+}
 </script>
 
 {% include career-profile.html %}

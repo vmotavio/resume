@@ -1,46 +1,6 @@
 ---
 layout: default
 ---
-<link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
-
-<a href="#" id="en-link" title="English">
-    <img src="/assets/flags/en_flag.png" alt="English Flag">
-    English
-</a>
-
-<a href="#" id="pt-link" title="Português">
-    <img src="/assets/flags/pt_flag.png" alt="Portuguese Flag">
-    Português
-</a>
-
-<script>
-
-function loadContent(language) {
-    if (language === 'en') {
-        loadEnglishContent();
-    } else if (language === 'pt') {
-        loadPortugueseContent();
-    }
-}
-
-document.getElementById('en-link').addEventListener('click', function(event) {
-    event.preventDefault(); 
-    loadContent('en');
-    window.location.reload();
-});
-
-document.getElementById('pt-link').addEventListener('click', function(event) {
-    event.preventDefault(); 
-    loadContent('pt');
-    window.location.reload();
-});
-
-if (window.site_language === 'pt') {
-    loadContent('pt');
-} else {
-    loadContent('en');
-}
-</script>
 
 {% include career-profile.html %}
 

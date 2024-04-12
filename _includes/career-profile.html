@@ -1,8 +1,4 @@
-{% if site_language == 'en' %}
-    {% assign career_profile_data = site.data.data.career-profile %}
-{% else %}
-    {% assign career_profile_data = site.data.data-pt.career-profile %}
-{% endif %}
+{% assign career-profile = site.data.data.career-profile %}
 {% if career-profile %}
 <section class="section summary-section">
 

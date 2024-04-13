@@ -1,8 +1,8 @@
-{% assign sidebar = site.data.data.sidebar %}
+{% assign sidebar = site.data.[data_file].sidebar %}
 <div class="sidebar-wrapper">
 
   <div class="profile-container">
-  <nav style="display: flex; justify-content: center; align-items: center; margin-bottom: 2px; margin-top: -12px;">
+  <nav style="display: flex; justify-content: center; align-items: center; margin-bottom: 12px; margin-top: -12px;" class="language-sw">
     <ul class="language-switch">
       <li><a href="/resume"><img src="{{ site.baseurl }}/assets/images/usa.png" alt="English"> English</a></li>
       <li><a href="/resume/pt.html"><img src="{{ site.baseurl }}/assets/images/brazil.png" alt="Português"> Português</a></li>
@@ -22,17 +22,17 @@
 
   </div><!--//profile-container-->
 
-  {% include contact.html %}
+  {% include contact.html data_file=data_file %}
 
-  {% if sidebar.education %}
-    {% include education.html %}
+  {% if sidebar.education  %}
+    {% include education.html data_file=data_file%}
   {% endif %}
 
-  {% include language.html %}
-  {% include interests.html %}
+  {% include language.html data_file=data_file%}
+  {% include interests.html data_file=data_file%}
 
-  {% if sidebar.about %}
-    {% include about.html %}
+  {% if sidebar.about  %}
+    {% include about.html data_file=data_file%}
   {% endif %}
 
 </div><!--//sidebar-wrapper-->

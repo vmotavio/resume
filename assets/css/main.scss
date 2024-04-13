@@ -14,5 +14,22 @@ $resume-order: 1;
 $sidebar-order: 2;
 {% endif %}
 
-@import "skins/{{ site.theme_skin | default: 'blue' }}"; // skin
+@import "skins/{{ site.theme_skin | default: 'dark' }}"; // skin
 @import "default"; // main partials
+
+.language-switch {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+.language-switch li {
+    display: inline;
+    margin-right: 10px;
+}
+
+.language-switch li img {
+    width: 30px;
+    height: 20px;
+    cursor: pointer;
+}

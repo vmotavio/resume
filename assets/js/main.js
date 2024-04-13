@@ -19,17 +19,3 @@ jQuery(document).ready(function($) {
     
 
 });
-
-document.addEventListener("DOMContentLoaded", function() {
-    // Defina a variável global
-    var site_language = "pt";
-  
-    // Altere o valor da variável global
-    function changeLanguage(newLanguage) {
-      site_language = newLanguage;
-      console.log("Idioma alterado para: " + site_language);
-    }
-  
-    // Exemplo de como usar a função para alterar o idioma
-    changeLanguage("en");
-  });

@@ -2,7 +2,12 @@
 <div class="sidebar-wrapper">
 
   <div class="profile-container">
-
+  <nav style="display: flex; justify-content: center; align-items: center; margin-bottom: 2px; margin-top: -12px;">
+    <ul class="language-switch">
+      <li><a href="/"><img src="{{ site.baseurl }}/assets/images/usa.png" alt="English"> English</a></li>
+      <li><a href="/pt.html"><img src="{{ site.baseurl }}/assets/images/brazil.png" alt="Português"> Português</a></li>
+    </ul>
+  </nav>
     {% if sidebar.avatar %}
     <img class="avatar" src="{{ site.baseurl }}/assets/images/{{ sidebar.avatar }}" alt="profile picture" />
     {% endif %}

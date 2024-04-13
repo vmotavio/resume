@@ -10,6 +10,11 @@
   <!--<![endif]-->
   {% include head.html %}
   <style>
+    @media print {
+      a[href]:after {
+        content: none !important;
+      }
+    }
     body {
       padding: 0 !important;
     }

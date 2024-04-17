@@ -48,27 +48,34 @@ education:
 experiences:
     title: Experiências
     info:
-      - role: Desenvolvedor Back-end
+      - role: Desenvolvedor Back-end (Remoto)
         time: 2021 - Atualmente
-        company: Verzel Soluções em Sistemas, Remoto
+        company: Verzel Soluções em Sistemas - Fábrica de Software
         details: |
-          Desenvolvi e mantive aplicações back end com Spring Boot (Java) e Node.js (TypeScript/JavaScript) e utilizei ferramentas de DevOps e Clouds (AWS e Azure).
-          Competências: Java · Spring Boot · Node.js · TypeScript · JavaScript · Gradle · JUnit · Mockito · Swagger API · API REST · PostgreSQL · Banco de dados Oracle · Kafka · AWS · MySQL · Kubernetes · Nest.js · Express.js · Azure · SQL  · Shell script
+          Durante minha trajetória profissional, assumi uma variedade de responsabilidades, das quais destaco as seguintes:
+          - Desenvolvimento e manutenção de aplicações Java, utilizando Spring Boot, para a criação de APIs REST e microsserviços escaláveis, seguindo padrões de qualidade, como SOLID e Design Patterns, além da realização de testes unitários e de integração;
+          - Monitoramento e observabilidade das aplicações, integrei o Zipkin para rastreamento distribuído e diagnóstico. para identificação e resolução de gargalos de desempenho e problemas de integração
+          - Tive a oportunidade de trabalhar com tecnologias de mensageria, com Apache Kafka, implementando 	também o Kafka Streams para processamento em tempo real e o KSQL e Kafka Connect para sincronia de 	dados;
+          - Experiência com diversos bancos de dados relacionais, incluindo PostgreSQL, Oracle, MySQL e SQL Server e 	NoSQL, como MongoDB;
+          - Participação ativa em projetos com foco em Node.js, utilizando Express.js e Nest.js;
+          - Convívio contínuo em projetos ágeis, adotando ferramentas como Scrum e Kanban;
+          - Ampla experiência em computação em nuvem, com utilização de serviços da AWS, como Lambda, S3, EKS, 	ECS, ECK, SQS, Cognito, Secrets Manager, CloudWatch e LightSail. Além disso, realizei configurações para 	CI/CD, empregando ferramentas como Terraform, CloudFormation, GitHub Actions, Docker e Kubernetes. 	No Azure, desenvolvi CI/CD de aplicações Java para servidores On Premises com o Azure DevOps.
       - role: SysAdmin
         time: 2014 - 2015
         company: Marinha do Brasil, Florianópolis - SC
         details: |
-          Desempenhei funções SysAdmin como: Manutenção de Redes e Servidores; Gerenciamento de usuários e acessos; Backup; Manutenção de computadores; e Instrução Básica de Informática (12 meses) e etc.
-          Competências: Drupal · Servidores On Premises  · Backup · VMware ESX · VMware vSphere · Samba 4 · XenServer · Lotus Notes · Zabbix · Oracle Linux · Ubuntu · Shell script
+          Atuei com o Terceiro Sargento, técnico em Tecnologia da Informação, onde desempenhei diversas funções voltadas para Data Center, como a criação e manutenção de servidores físicos e virtuais com VMware e XenServer, Sistemas de Storages FreeNas, Servidores de Domínio, DNS e Compartilhamento de Arquivos com Samba 4 e Desenvolvimento de Aplicações Web com CMS Drupal. 
+          Além disso, ministrei aula de Informática Básica por dois períodos para os alunos da EAMSC.
+          Tecnologias: Bacula, Zabbix, Apache, PostgreSQL, MySQL, Shell Script, Oracle Linux, Ubuntu, Suse Linux.
       - role: Assistente da Divisão de Sistemas
         time: 2012 - 2014
         company: Marinha do Brasil, Niterói - RJ
         details: |
           Desempenhei diversas funções voltadas para Data Center, como a criação e manutenção de servidores on Premises , virtualização, backup e criação de servidores de domínio, DNS, de monitoramento, e etc.
-          Competências: VMware ESX · FreeNAS · DNS Server · Samba 4 · Drupal · CMS · Bacula · Zabbix · PostgreSQL · MySQL · Shell Script · Suse Linux · Ubuntu
+          Tecnologias: VMware ESX, FreeNAS,DNS Server, Samba 4, Drupal CMS, Bacula, Zabbix, PostgreSQL, MySQL, Shell Script, Suse Linux, Ubuntu.
       - role: Support Analyst I
         time: 2012 - 2012
         company: Santa Casa, Juiz de Fora - MG
         details: |
           Trabalhei com sistemas de faturamento de clientes do plano de saúde, elaborando requisições no Banco de Dados Oracle utilizando PL/SQL, e também, suporte aos usuários da unidade.
-          Competências: PL/SQL · SQL · Banco de dados · Manutenção de computadores
+          Tecnologias: PL/SQL, SQL, Banco de dados e Manutenção de computadores.

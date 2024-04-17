@@ -52,20 +52,27 @@ experiences:
         time: 2021 - Present
         company: Verzel Systems Solutions, Remote
         details: |
-          I developed and maintained back end applications with Spring Boot (Java) and Node.js (TypeScript/JavaScript) and used DevOps and Clouds tools (AWS and Azure).
-          Skills: Java · Spring Boot · Node.js · TypeScript · JavaScript · Gradle · JUnit · Mockito · Swagger API · API REST · PostgreSQL · Oracle DB · Kafka · AWS · MySQL · Kubernetes · Nest.js · Express.js · Azure · SQL  · Shell script
+          During my professional career, I have assumed a variety of responsibilities, including the following:
+          - Development and maintenance of Java applications, using Spring Boot, to create REST APIs and scalable microservices, following quality standards, such as SOLID and Design Patterns, in addition to carrying out unit and integration tests;
+          - Monitoring and observability of applications, integrated Zipkin for distributed tracking and diagnosis. for identifying and resolving performance bottlenecks and integration issues;
+          - I had the opportunity to work with messaging technologies, with Apache Kafka, also implementing Kafka Streams for real-time processing and KSQL and Kafka Connect for data synchronization;
+          - Experience with several relational databases, including PostgreSQL, Oracle, MySQL and SQL Server and NoSQL, such as MongoDB;
+          - Active participation in projects focused on Node.js, using Express.js and Nest.js;
+          - Continuous collaboration in agile projects, adopting tools such as Scrum and Kanban;
+          - Extensive experience in cloud computing, using AWS services such as Lambda, S3, EKS, ECS, ECK, SQS, Cognito, Secrets Manager, CloudWatch and LightSail. Additionally, I performed configurations for CI/CD, using tools such as Terraform, CloudFormation, GitHub Actions, Docker and Kubernetes. In Azure, I developed CI/CD of Java applications for On Premises servers with Azure DevOps.
       - role: SysAdmin
         time: 2014 - 2015
         company: Brazil's Navy, Florianópolis - SC
         details: |
-          I performed SysAdmin functions such as: Network and Server Maintenance; User management and accesses; Backup; Computer maintenance; and Basic Instruction in Computer Science (12 months) and so on.
-          Skills: Drupal · On Premise  · Backup · IT Teaching · VMware ESX · VMware vSphere · Samba 4 · XenServer · Lotus Notes · Zabbix · Oracle Linux · Ubuntu · Shell script
+          I worked as a Third Sergeant, an Information Technology technician, where I performed several functions focused on the Data Center, such as creating and maintaining physical and virtual servers with VMware and XenServer, FreeNas, Storage Systems, Domain Servers, DNS, Samba 4 and Development of Web Applications with Drupal CMS. 
+          In addition, I taught Basic Informatics classes for two periods for EAMSC students.
+          Technologies: Bacula, Zabbix, Apache, PostgreSQL, MySQL, Shell Script, Oracle Linux, Ubuntu, Suse Linux.
       - role: Systems Division Assistant
         time: 2012 - 2014
         company: Brazil's Navy, Niterói - RJ
         details: |
           I performed several functions focused on Data Center, such as creating and maintaining servers on Premises, virtualization, backup and creation of domain, DNS, monitoring servers, etc.
-          Skills: VMware ESX · FreeNAS · DNS Server · Samba 4 · Drupal · CMS · Bacula · Zabbix · PostgreSQL · MySQL · Shell Script · Suse Linux · Ubuntu
+          Technologies: VMware ESX, FreeNAS, DNS Server, Samba 4, Drupal · CMS, Bacula, Zabbix, PostgreSQL, MySQL, Shell Script, Suse Linux, Ubuntu
       - role: Support Analyst I
         time: 2012 - 2012
         company: Santa Casa, Juiz de Fora - MG
